@@ -28,7 +28,7 @@ proyectos y mis intereses.
 * interés en el desarrollo web, videojuegos y la automatización. Me caracterizo por mis ganas de aprender cosas nuevas y capacidad para resolver problemas de forma eficiente.
 ## Tecnologias
 ### Phyton
-* lenguaje apredido para analisis de datos
+* lenguaje aprendido para analisis de datos
 ### Java
 * lenguaje orientado a objetos para desarrollo de aplicaciones empresariales, moviles y de escritorio.
 ### MySql
